@@ -1,0 +1,2 @@
+vowels are : 'a' ,'e','i','o','u'
+
